@@ -5,3 +5,5 @@ It is thus useful for anyone who is trying to recognize speech using WFST-based 
 
 The algorithm applied is described in bachelor thesis of the first author: [Finite State Grammars as Language Models
 for Automatic Speech Recognition](https://wis.fit.vutbr.cz/FIT/st/rp.php/rp/2013/BP/16440.pdf).
+
+Grammator is published under the terms of [GPLv3](LICENSE.md).
